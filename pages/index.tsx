@@ -1,4 +1,6 @@
-import React, { useCallback } from 'react';
+import React
+//   , { useEffect, useCallback } 
+from 'react';
 import Link from 'next/link';
 import { useAuth } from '../auth';
 
